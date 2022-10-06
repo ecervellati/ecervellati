@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineer with a passion for Science and Machine Learning<br>Shoot me an Email or add me on Linkedin :)
+I'm a Software Engineer with a passion for Science and Machine Learning<br>Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
